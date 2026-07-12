@@ -1,2 +1,7 @@
 # lil_guy
-Figure out how to make a game in python for the first time
+Figuring out how to make a game in Python for the first time
+
+#tech stack
+-python 3.14
+-turtle
+
